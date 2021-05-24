@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Track My Location</string>
+    <string name="app_desc">Track other\'s phone location with simple</string>
+    <string name="sign_in_desc">Please sign in or register new account</string>
+    <string name="profile">Profile</string>
+    <string name="track_location">Track Location</string>
+    <string name="share_location">Share Location</string>
+    <string name="start">Start</string>
+    <string name="device_id">Device Id:</string>
+    <string name="lat_long">Lat/Long:</string>
+    <string name="login">Login</string>
+    <string name="stop">Stop</string>
+    <string name="disconnected">diconnected</string>
+    <string name="fetching">fetching...</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
